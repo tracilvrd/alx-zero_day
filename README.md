@@ -1,1 +1,1 @@
-My first readme
+Striving to be better everyday
